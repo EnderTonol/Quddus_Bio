@@ -1,7 +1,7 @@
 {
-  "name": "db-todo",
+  "name": "Quddus Bio",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.2.0",
   "type": "module",
   "scripts": {
     "start": "vite",
